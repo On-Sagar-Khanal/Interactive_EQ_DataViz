@@ -1,2 +1,2 @@
 # Interactive_EQ_DataViz
-This project was developed as part of the DAT/Artathon
+This project was developed as part of the DAT/Artathon (https://datartathon.com). 
